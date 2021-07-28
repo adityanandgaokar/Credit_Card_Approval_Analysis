@@ -1,1 +1,1 @@
-# Credit_Card_Approval_Analysis
+# Credit_Card_Applications_Approval_Analysis
